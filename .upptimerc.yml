@@ -7,10 +7,10 @@ sites:
     url: https://www.google.com
   - name: GitHub
     url: https://www.githubstatus.com/api/v2/status.json
-    __dangerous__body_degraded: 'Degraded'
-    __dangerous__body_down: 'Service Outage'
+    __dangerous__body_degraded: 'Minor Service Outage'
+    __dangerous__body_down: 'Major Service Outage'
   - name: Slack
-    url: https://status.slack.com
+    url: https://status.slack.com/api/v2.0.0/current
     __dangerous__body_degraded: '"type":"incident"'
     __dangerous__body_down: '"type":"outage"'
 
