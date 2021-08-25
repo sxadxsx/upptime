@@ -5,6 +5,14 @@ repo: upptime # The name of this repository
 sites:
   - name: Google
     url: https://www.google.com
+  - name: GitHub
+    url: https://www.githubstatus.com/api/v2/status.json
+    __dangerous__body_degraded: 'Degraded'
+    __dangerous__body_down: 'Service Outage'
+  - name: Slack
+    url: https://status.slack.com
+    __dangerous__body_degraded: '"type":"incident"'
+    __dangerous__body_down: '"type":"outage"'
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
