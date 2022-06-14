@@ -34,8 +34,8 @@ status-website:
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/sxadxsx/upptime/
+    - title: 官網
+      href: https://www.ssangyongsports.eu.org
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
