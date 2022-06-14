@@ -1,5 +1,5 @@
 # Change these first
-owner: pmmmwh # Your GitHub organization or username, where this repository lives
+owner: sxadxsx # Your GitHub organization or username, where this repository lives
 repo: upptime # The name of this repository
 
 sites:
@@ -29,7 +29,7 @@ status-website:
     - title: Status
       href: /
     - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+      href: https://github.com/sxadxsx/upptime/
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
