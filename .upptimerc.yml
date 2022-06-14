@@ -38,3 +38,4 @@ i18n:
   degradedPerformance: "🟨 Degraded performance"
   completeOutage: "🟥 Complete outage"
   partialOutage: "🟧 Partial outage"
+  footer: This page is [open source]($REPO), powered by [Upptime](https://upptime.js.org)
