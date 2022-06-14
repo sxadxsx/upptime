@@ -13,6 +13,12 @@ sites:
     url: https://BLOG.ssangyongsports.eu.org/
   - name: 雙龍體育社區community
     url: http://community.ssangyongsports.eu.org/
+  - name: 雙龍體育WIKI
+    url: https://wiki.ssangyongsports.eu.org/
+  - name: 雙龍體育TV 
+    url: https://TV.ssangyongsports.eu.org/
+  - name: 雙龍體育IMG
+    url: http://IMG.ssangyongsports.eu.org/
     __dangerous__body_degraded: '"type":"incident"'
     __dangerous__body_down: '"type":"outage"'
 
@@ -21,10 +27,10 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
   baseUrl: /upptime
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://i.ibb.co/2YDj3pm/2022-02-28-004341-removebg-preview-1.png
   name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "**雙龍體育系統狀態** 
+  introMessage: 歡迎來到雙龍體育狀態頁，在此頁可看到所有系統運行的狀況。
   navbar:
     - title: Status
       href: /
