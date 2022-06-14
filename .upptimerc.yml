@@ -6,13 +6,13 @@ sites:
   - name: 雙龍體育
     url: https://www.ssangyongsports.eu.org/
   - name: 雙龍職籃
-    url: https://sbatw.ml
+    url: https://sbatw.ml/
   - name: 雙龍職棒
-    url: https://slbtw.cf
+    url: https://slbtw.cf/
   - name: 雙龍體育blog
     url: https://BLOG.ssangyongsports.eu.org/
   - name: 雙龍體育社區
-    url: http://community.ssangyongsports.eu.org
+    url: http://community.ssangyongsports.eu.org/
     __dangerous__body_degraded: '"type":"incident"'
     __dangerous__body_down: '"type":"outage"'
 
