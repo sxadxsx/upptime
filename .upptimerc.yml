@@ -34,7 +34,7 @@ status-website:
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
 i18n:
-  allSystemsOperational: "✅   所有系統都可以運行"
+  allSystemsOperational: "所有系統都可以運行"
   degradedPerformance: "🟨 Degraded performance"
   completeOutage: "🟥 Complete outage"
   partialOutage: "🟧 Partial outage"
