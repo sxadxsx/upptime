@@ -29,7 +29,7 @@ status-website:
   baseUrl: /upptime
   logoUrl: https://i.ibb.co/2YDj3pm/2022-02-28-004341-removebg-preview-1.png
   name: Upptime
-  introTitle: "**雙龍體育系統狀態** 
+  introTitle: "**雙龍體育狀態**"
   introMessage: 歡迎來到雙龍體育狀態頁，在此頁可看到所有系統運行的狀況。
   navbar:
     - title: Status
