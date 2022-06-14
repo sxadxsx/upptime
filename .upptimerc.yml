@@ -49,7 +49,3 @@ i18n:
   overallUptime: "正常執行時間: $UPTIME"
   averageResponseTime: "平均回應時間: $TIMEms"
   overallUptime: "整體正常運行時間: $UPTIME"
-  sevelDayResponseTime: ‎7 天回應時間‎
-  
-
-
