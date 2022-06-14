@@ -45,6 +45,4 @@ i18n:
   completeOutage: "🟥 Complete outage"
   partialOutage: "🟧 Partial outage"
   footer: © 2022 雙龍體育
-  overallUptime: "正常執行時間: $UPTIME"
-  averageResponseTime: "平均回應時間: $TIMEms"
-  overallUptime: "整體正常運行時間: $UPTIME"
+ 
