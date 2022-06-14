@@ -3,15 +3,15 @@ owner: sxadxsx # Your GitHub organization or username, where this repository liv
 repo: upptime # The name of this repository
 
 sites:
-  - name: 雙龍體育
+  - name: 雙龍體育web
     url: https://www.ssangyongsports.eu.org/
-  - name: 雙龍職籃
+  - name: 雙龍職籃SBA
     url: https://sbatw.ml/
-  - name: 雙龍職棒
+  - name: 雙龍職棒SLB
     url: https://slbtw.cf/
   - name: 雙龍體育blog
     url: https://BLOG.ssangyongsports.eu.org/
-  - name: 雙龍體育社區
+  - name: 雙龍體育社區community
     url: http://community.ssangyongsports.eu.org/
     __dangerous__body_degraded: '"type":"incident"'
     __dangerous__body_down: '"type":"outage"'
