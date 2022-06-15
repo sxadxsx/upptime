@@ -55,7 +55,5 @@ i18n:
   averageResponseTimeTitle: 平均回應時間
   sevelDayResponseTime: 7-day 回應時間
 workflowSchedule:
-  uptime: "*/10 * * * *"
-  graphs: "30 * * *"
-
+  uptime: "*/5 * * * *"
 
