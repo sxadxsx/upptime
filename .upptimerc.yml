@@ -16,7 +16,7 @@ sites:
   - name: 雙龍體育WIKI
     url: https://wiki.ssangyongsports.eu.org/
   - name: 雙龍體育TV 
-    url: https://TV.ssangyongsports.eu.org/
+    url: https://watch.TV.ssangyongsports.eu.org/
   - name: 雙龍體育IMG
     url: http://IMG.ssangyongsports.eu.org/
     __dangerous__body_degraded: '"type":"incident"'
