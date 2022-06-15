@@ -54,6 +54,13 @@ i18n:
   overallUptimeTitle: 整體正常運行時間
   averageResponseTimeTitle: 平均回應時間
   sevelDayResponseTime: 7-day 回應時間
+  pastIncidents: 過去的網站停機事件
+  activeIncidents: 目前停機的網站
+  activeIncidentSummary: 停機開始於 $DATE with $POSTS posts
+  incidentOpenedAt: 開始
+  incidentClosedAt: 結束
+  pastIncidentsResolved: 解決 $MINUTES minutes with $POSTS posts
+  incidentBack: ← 返回主頁
 workflowSchedule:
   uptime: "*/5 * * * *"
 
