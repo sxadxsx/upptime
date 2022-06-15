@@ -19,8 +19,6 @@ sites:
     url: https://TV.ssangyongsports.eu.org/
   - name: 雙龍體育IMG
     url: http://IMG.ssangyongsports.eu.org/
-  - name: TEST
-    url: https://TEST.UYHUIHUH/
     __dangerous__body_degraded: '"type":"incident"'
     __dangerous__body_down: '"type":"outage"'
 
