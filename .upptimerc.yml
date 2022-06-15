@@ -21,7 +21,7 @@ sites:
     url: http://IMG.ssangyongsports.eu.org/
   - name: 雙龍體育短網址url
     url: http://ssport.cf
-  - name: 雙龍體育購物
+  - name: 雙龍體育購物Shop
     url: https://ssangyongsports.easy.co/
     __dangerous__body_degraded: '"type":"incident"'
     __dangerous__body_down: '"type":"outage"'
