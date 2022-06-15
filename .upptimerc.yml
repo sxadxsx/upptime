@@ -56,5 +56,6 @@ i18n:
   sevelDayResponseTime: 7-day 回應時間
 workflowSchedule:
   uptime: "*/10 * * * *"
+  graphs: "30 * * *"
 
 
