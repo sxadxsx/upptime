@@ -19,6 +19,10 @@ sites:
     url: https://watch.TV.ssangyongsports.eu.org/
   - name: 雙龍體育IMG
     url: http://IMG.ssangyongsports.eu.org/
+  - name: 雙龍體育短網址url
+    url: http://ssport.cf
+  - name: 雙龍體育購物
+    url: https://ssangyongsports.easy.co/
     __dangerous__body_degraded: '"type":"incident"'
     __dangerous__body_down: '"type":"outage"'
 
