@@ -113,19 +113,17 @@
     "icon": "https://favicons.githubusercontent.com/watch.tv.ssangyongsports.eu.org",
     "slug": "tv",
     "status": "up",
-    "uptime": "99.53%",
-    "uptimeDay": "99.53%",
-    "uptimeWeek": "99.53%",
-    "uptimeMonth": "99.53%",
-    "uptimeYear": "99.53%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 468,
     "timeDay": 468,
     "timeWeek": 468,
     "timeMonth": 468,
     "timeYear": 468,
-    "dailyMinutesDown": {
-      "2022-06-15": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "雙龍體育IMG",
