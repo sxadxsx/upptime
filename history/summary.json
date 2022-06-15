@@ -148,19 +148,19 @@
     "url": "http://ssport.cf",
     "icon": "https://favicons.githubusercontent.com/ssport.cf",
     "slug": "url",
-    "status": "down",
-    "uptime": "90.65%",
-    "uptimeDay": "90.65%",
-    "uptimeWeek": "90.65%",
-    "uptimeMonth": "90.65%",
-    "uptimeYear": "90.65%",
-    "time": 609,
-    "timeDay": 609,
-    "timeWeek": 609,
-    "timeMonth": 609,
-    "timeYear": 609,
+    "status": "up",
+    "uptime": "88.97%",
+    "uptimeDay": "88.97%",
+    "uptimeWeek": "88.97%",
+    "uptimeMonth": "88.97%",
+    "uptimeYear": "88.97%",
+    "time": 594,
+    "timeDay": 594,
+    "timeWeek": 594,
+    "timeMonth": 594,
+    "timeYear": 594,
     "dailyMinutesDown": {
-      "2022-06-15": 52
+      "2022-06-15": 63
     }
   },
   {
