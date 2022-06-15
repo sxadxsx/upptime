@@ -45,5 +45,11 @@ i18n:
   partialOutage: "🟧 Partial outage"
   footer: © 2022 雙龍體育
   liveStatus: 實時狀態
-  overallUptime: "總體正常運行時間: $UPTIME"
-  averageResponseTime: "平均響應時間: $TIMEms"
+  overallUptime: "整體正常運行時間: $UPTIME"
+  averageResponseTime: "平均回應時間: $TIMEms"
+  overallUptimeTitle: 整體正常運行時間
+  averageResponseTimeTitle: 平均回應時間
+  sevelDayResponseTime: 7-day 回應時間
+
+
+
