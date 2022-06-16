@@ -63,6 +63,7 @@ i18n:
   incidentBack: ← 返回主頁
   incidentCommentSummary: 報告發佈於 $DATE by $AUTHOR
   pastIncidentsResolved: 解決$MINUTES minutes with $POSTS posts
+  navGitHub: 
 workflowSchedule:
   uptime: "*/5 * * * *"
 
