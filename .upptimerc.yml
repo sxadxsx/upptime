@@ -61,7 +61,7 @@ i18n:
   incidentClosedAt: 結束
   pastIncidentsResolved: 解決 $MINUTES minutes with $POSTS posts
   incidentBack: ← 返回主頁
-  Subscribe to Updates:
+  incidentCommentSummary: 報告發佈於 $DATE by $AUTHOR
 workflowSchedule:
   uptime: "*/5 * * * *"
 
