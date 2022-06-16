@@ -59,9 +59,6 @@ i18n:
   activeIncidentSummary: 停機開始於 $DATE with $POSTS posts
   incidentOpenedAt: 開始
   incidentClosedAt: 結束
-  pastIncidentsResolved: 解決 $MINUTES minutes with $POSTS posts
-  incidentBack: ← 返回主頁
-  incidentCommentSummary: 報告發佈於 $DATE by $AUTHOR
 workflowSchedule:
   uptime: "*/5 * * * *"
 
