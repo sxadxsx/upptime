@@ -60,6 +60,5 @@ i18n:
   incidentOpenedAt: 開始
   incidentClosedAt: 結束
 workflowSchedule:
-  uptime: "*/5 * * * *"
-status-website:
-  customHeadHtml: "<  <meta name="google" content="notranslate" /> >"
+  uptime: "*/1 * * * *"
+
