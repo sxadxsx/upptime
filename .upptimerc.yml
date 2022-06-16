@@ -60,5 +60,5 @@ i18n:
   incidentOpenedAt: 開始
   incidentClosedAt: 結束
 workflowSchedule:
-  uptime: "*/1 * * * *"
+  uptime: "*/2 * * * *"
 
