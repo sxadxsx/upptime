@@ -61,9 +61,9 @@ i18n:
   incidentClosedAt: 結束
 workflowSchedule:
   graphs: "*/5 * * * *"
-  responseTime: "*/15 * * * *"
-  staticSite: "*/10 * * * *"
-  summary: "*/10 * * * *"
-  updateTemplate: "*/6 * * * *"
-  updates: "*/6 * * * *"
+  responseTime: "*/1 * * * *"
+  staticSite: "*/1 * * * *"
+  summary: "*/1 * * * *"
+  updateTemplate: "*/2 * * * *"
+  updates: "*/2 * * * *"
   uptime: "*/1 * * * *"
