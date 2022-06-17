@@ -10,7 +10,7 @@
 name: Updates CI
 on:
   schedule:
-    - cron: "*/6 * * * *"
+    - cron: "*/2 * * * *"
   repository_dispatch:
     types: [updates]
   workflow_dispatch:
