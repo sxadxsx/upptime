@@ -1,6 +1,5 @@
 # [📈 Live Status](https://pmmmwh.github.io/upptime): <!--live status--> **所有系統都可以運行**
 
-This repository contains the open-source uptime monitor and status page for [Michael Mok](https://pmmmwh.com), powered by [Upptime](https://github.com/upptime/upptime).
 
 [![Uptime CI](https://github.com/pmmmwh/upptime/workflows/Uptime%20CI/badge.svg)](https://github.com/pmmmwh/upptime/actions?query=workflow%3A%22Uptime+CI%22)
 [![Response Time CI](https://github.com/pmmmwh/upptime/workflows/Response%20Time%20CI/badge.svg)](https://github.com/pmmmwh/upptime/actions?query=workflow%3A%22Response+Time+CI%22)
