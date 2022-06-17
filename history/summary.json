@@ -22,9 +22,9 @@
     "url": "https://sbatw.ml/",
     "icon": "https://favicons.githubusercontent.com/sbatw.ml",
     "slug": "sba",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 1835,
     "timeMonth": 1835,
     "timeYear": 1835,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-17": 0
+    }
   },
   {
     "name": "雙龍職棒SLB",
@@ -149,11 +151,11 @@
     "icon": "https://favicons.githubusercontent.com/ssport.cf",
     "slug": "url",
     "status": "up",
-    "uptime": "98.11%",
+    "uptime": "98.12%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.11%",
-    "uptimeMonth": "98.11%",
-    "uptimeYear": "98.11%",
+    "uptimeWeek": "98.12%",
+    "uptimeMonth": "98.12%",
+    "uptimeYear": "98.12%",
     "time": 558,
     "timeDay": 540,
     "timeWeek": 558,
