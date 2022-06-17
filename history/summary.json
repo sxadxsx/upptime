@@ -151,11 +151,11 @@
     "icon": "https://favicons.githubusercontent.com/ssport.cf",
     "slug": "url",
     "status": "up",
-    "uptime": "98.66%",
+    "uptime": "98.67%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.66%",
-    "uptimeMonth": "98.66%",
-    "uptimeYear": "98.66%",
+    "uptimeWeek": "98.67%",
+    "uptimeMonth": "98.67%",
+    "uptimeYear": "98.67%",
     "time": 742,
     "timeDay": 812,
     "timeWeek": 742,
@@ -171,18 +171,18 @@
     "icon": "https://favicons.githubusercontent.com/ssangyongsports.easy.co",
     "slug": "shop",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.98%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 957,
     "timeDay": 963,
     "timeWeek": 957,
     "timeMonth": 957,
     "timeYear": 957,
     "dailyMinutesDown": {
-      "2022-06-17": 0
+      "2022-06-17": 1
     }
   }
 ]
