@@ -60,10 +60,10 @@ i18n:
   incidentOpenedAt: 開始
   incidentClosedAt: 結束
 workflowSchedule:
-  graphs: "*/5 * * * *"
+  graphs: "*/1 * * * *"
   responseTime: "*/1 * * * *"
   staticSite: "*/1 * * * *"
   summary: "*/1 * * * *"
-  updateTemplate: "*/2 * * * *"
-  updates: "*/2 * * * *"
+  updateTemplate: "*/1 * * * *"
+  updates: "*/1 * * * *"
   uptime: "*/1 * * * *"
