@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 446,
-    "timeDay": 459,
-    "timeWeek": 448,
+    "timeDay": 456,
+    "timeWeek": 447,
     "timeMonth": 446,
     "timeYear": 446,
     "dailyMinutesDown": {}
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1763,
-    "timeDay": 2011,
-    "timeWeek": 1752,
-    "timeMonth": 1763,
-    "timeYear": 1763,
+    "time": 1760,
+    "timeDay": 1989,
+    "timeWeek": 1750,
+    "timeMonth": 1760,
+    "timeYear": 1760,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 878,
-    "timeDay": 1276,
-    "timeWeek": 917,
-    "timeMonth": 878,
-    "timeYear": 878,
+    "time": 881,
+    "timeDay": 1291,
+    "timeWeek": 921,
+    "timeMonth": 881,
+    "timeYear": 881,
     "dailyMinutesDown": {}
   },
   {
@@ -77,18 +77,18 @@
     "icon": "https://favicons.githubusercontent.com/community.ssangyongsports.eu.org",
     "slug": "community",
     "status": "up",
-    "uptime": "97.46%",
-    "uptimeDay": "79.13%",
-    "uptimeWeek": "97.02%",
-    "uptimeMonth": "97.46%",
-    "uptimeYear": "97.46%",
-    "time": 1553,
-    "timeDay": 1799,
-    "timeWeek": 1543,
-    "timeMonth": 1553,
-    "timeYear": 1553,
+    "uptime": "96.86%",
+    "uptimeDay": "74.07%",
+    "uptimeWeek": "96.30%",
+    "uptimeMonth": "96.86%",
+    "uptimeYear": "96.86%",
+    "time": 1552,
+    "timeDay": 1787,
+    "timeWeek": 1542,
+    "timeMonth": 1552,
+    "timeYear": 1552,
     "dailyMinutesDown": {
-      "2022-06-22": 301
+      "2022-06-22": 373
     }
   },
   {
@@ -102,11 +102,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 767,
-    "timeDay": 723,
+    "time": 766,
+    "timeDay": 722,
     "timeWeek": 754,
-    "timeMonth": 767,
-    "timeYear": 767,
+    "timeMonth": 766,
+    "timeYear": 766,
     "dailyMinutesDown": {}
   },
   {
@@ -120,11 +120,11 @@
     "uptimeWeek": "99.90%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.92%",
-    "time": 387,
-    "timeDay": 431,
+    "time": 386,
+    "timeDay": 427,
     "timeWeek": 385,
-    "timeMonth": 387,
-    "timeYear": 387,
+    "timeMonth": 386,
+    "timeYear": 386,
     "dailyMinutesDown": {
       "2022-06-17": 10
     }
@@ -158,11 +158,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.52%",
     "uptimeYear": "99.52%",
-    "time": 825,
-    "timeDay": 1180,
-    "timeWeek": 832,
-    "timeMonth": 825,
-    "timeYear": 825,
+    "time": 827,
+    "timeDay": 1186,
+    "timeWeek": 835,
+    "timeMonth": 827,
+    "timeYear": 827,
     "dailyMinutesDown": {
       "2022-06-15": 52
     }
