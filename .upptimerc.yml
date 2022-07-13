@@ -67,3 +67,6 @@ workflowSchedule:
   updateTemplate: "*/1 * * * *"
   updates: "*/1 * * * *"
   uptime: "*/1 * * * *"
+  - name: GitHub Action for IFTTT
+  uses: screendriver/ifttt-action@v1.0.0
+
