@@ -29,7 +29,7 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: status.ssangyongsports.eu.org
+  cname: sxadxsx.github.io
   logoUrl: https://i.ibb.co/2YDj3pm/2022-02-28-004341-removebg-preview-1.png
   name: 雙龍體育狀態
   introTitle: "**雙龍體育狀態**"
