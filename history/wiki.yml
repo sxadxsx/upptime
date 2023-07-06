@@ -1,7 +1,7 @@
 url: https://wiki.ssangyongsports.eu.org/
-status: up
-code: 200
-responseTime: 737
-lastUpdated: 2023-07-06T19:33:45.286Z
+status: down
+code: 429
+responseTime: 645
+lastUpdated: 2023-07-06T20:33:12.583Z
 startTime: Tue Jun 14 2022 12:35:27 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
