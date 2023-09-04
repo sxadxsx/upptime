@@ -1,7 +1,7 @@
 url: http://community.ssangyongsports.eu.org/
-status: up
-code: 200
-responseTime: 1312
-lastUpdated: 2023-09-04T11:25:41.798Z
+status: down
+code: 502
+responseTime: 982
+lastUpdated: 2023-09-04T12:10:44.311Z
 startTime: 2022-06-14T10:50:32.000Z
 generator: Upptime <https://github.com/upptime/upptime>
