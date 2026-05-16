@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ssangyongsports.eu.org.ico",
     "slug": "web",
     "status": "down",
-    "uptime": "80.48%",
+    "uptime": "80.40%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "29.79%",
-    "time": 692,
-    "timeDay": 186,
-    "timeWeek": 307,
-    "timeMonth": 361,
-    "timeYear": 684,
+    "uptimeYear": "29.44%",
+    "time": 686,
+    "timeDay": 228,
+    "timeWeek": 264,
+    "timeMonth": 356,
+    "timeYear": 680,
     "dailyMinutesDown": {
-      "2026-05-15": 501,
+      "2026-05-16": 888,
+      "2026-05-15": 1440,
       "2026-05-14": 1440,
       "2026-05-13": 1440,
       "2026-05-12": 1440,
@@ -289,7 +290,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/sbatw.ml.ico",
     "slug": "sba",
     "status": "down",
-    "uptime": "15.78%",
+    "uptime": "15.76%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -300,7 +301,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-15": 506,
+      "2026-05-16": 893,
+      "2026-05-15": 1440,
       "2026-05-14": 1440,
       "2026-05-13": 1440,
       "2026-05-12": 1440,
@@ -663,8 +665,7 @@
       "2025-05-20": 1440,
       "2025-05-19": 1440,
       "2025-05-18": 1440,
-      "2025-05-17": 1440,
-      "2025-05-16": 1440
+      "2025-05-17": 1440
     }
   },
   {
@@ -673,7 +674,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/slbtw.cf.ico",
     "slug": "slb",
     "status": "down",
-    "uptime": "18.41%",
+    "uptime": "18.39%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -684,7 +685,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-15": 511,
+      "2026-05-16": 897,
+      "2026-05-15": 1440,
       "2026-05-14": 1440,
       "2026-05-13": 1440,
       "2026-05-12": 1440,
@@ -1047,8 +1049,7 @@
       "2025-05-20": 1440,
       "2025-05-19": 1440,
       "2025-05-18": 1440,
-      "2025-05-17": 1440,
-      "2025-05-16": 1440
+      "2025-05-17": 1440
     }
   },
   {
@@ -1057,7 +1058,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/blog.ssangyongsports.eu.org.ico",
     "slug": "blog",
     "status": "down",
-    "uptime": "24.62%",
+    "uptime": "24.60%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -1068,7 +1069,8 @@
     "timeMonth": 0,
     "timeYear": 557,
     "dailyMinutesDown": {
-      "2026-05-15": 516,
+      "2026-05-16": 901,
+      "2026-05-15": 1440,
       "2026-05-14": 1440,
       "2026-05-13": 1440,
       "2026-05-12": 1440,
@@ -1431,8 +1433,7 @@
       "2025-05-20": 1440,
       "2025-05-19": 1440,
       "2025-05-18": 1440,
-      "2025-05-17": 1440,
-      "2025-05-16": 1440
+      "2025-05-17": 1440
     }
   },
   {
@@ -1441,7 +1442,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/community.ssangyongsports.eu.org.ico",
     "slug": "community",
     "status": "down",
-    "uptime": "33.04%",
+    "uptime": "33.01%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -1452,7 +1453,8 @@
     "timeMonth": 0,
     "timeYear": 574,
     "dailyMinutesDown": {
-      "2026-05-15": 521,
+      "2026-05-16": 905,
+      "2026-05-15": 1440,
       "2026-05-14": 1440,
       "2026-05-13": 1440,
       "2026-05-12": 1440,
@@ -1815,8 +1817,7 @@
       "2025-05-20": 1440,
       "2025-05-19": 1440,
       "2025-05-18": 1440,
-      "2025-05-17": 1440,
-      "2025-05-16": 1440
+      "2025-05-17": 1440
     }
   },
   {
@@ -1825,18 +1826,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/wiki.ssangyongsports.eu.org.ico",
     "slug": "wiki",
     "status": "down",
-    "uptime": "33.46%",
+    "uptime": "33.43%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 564,
-    "timeDay": 198,
-    "timeWeek": 192,
-    "timeMonth": 366,
-    "timeYear": 562,
+    "time": 563,
+    "timeDay": 214,
+    "timeWeek": 201,
+    "timeMonth": 363,
+    "timeYear": 561,
     "dailyMinutesDown": {
-      "2026-05-15": 526,
+      "2026-05-16": 909,
+      "2026-05-15": 1440,
       "2026-05-14": 1440,
       "2026-05-13": 1440,
       "2026-05-12": 1440,
@@ -2199,8 +2201,7 @@
       "2025-05-20": 1440,
       "2025-05-19": 1440,
       "2025-05-18": 1440,
-      "2025-05-17": 1440,
-      "2025-05-16": 1440
+      "2025-05-17": 1440
     }
   },
   {
@@ -2209,7 +2210,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/watch.tv.ssangyongsports.eu.org.ico",
     "slug": "tv",
     "status": "down",
-    "uptime": "11.33%",
+    "uptime": "11.32%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -2220,7 +2221,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-15": 531,
+      "2026-05-16": 914,
+      "2026-05-15": 1440,
       "2026-05-14": 1440,
       "2026-05-13": 1440,
       "2026-05-12": 1440,
@@ -2583,8 +2585,7 @@
       "2025-05-20": 1440,
       "2025-05-19": 1440,
       "2025-05-18": 1440,
-      "2025-05-17": 1440,
-      "2025-05-16": 1440
+      "2025-05-17": 1440
     }
   },
   {
@@ -2593,18 +2594,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/img.ssangyongsports.eu.org.ico",
     "slug": "img",
     "status": "up",
-    "uptime": "90.99%",
+    "uptime": "90.90%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "71.00%",
+    "uptimeYear": "70.65%",
     "time": 427,
-    "timeDay": 255,
-    "timeWeek": 409,
-    "timeMonth": 428,
-    "timeYear": 427,
+    "timeDay": 302,
+    "timeWeek": 424,
+    "timeMonth": 430,
+    "timeYear": 426,
     "dailyMinutesDown": {
-      "2026-05-15": 536,
+      "2026-05-16": 919,
+      "2026-05-15": 1440,
       "2026-05-14": 1440,
       "2026-05-13": 1440,
       "2026-05-12": 1440,
@@ -2730,7 +2732,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/ssport.cf.ico",
     "slug": "url",
     "status": "down",
-    "uptime": "22.40%",
+    "uptime": "22.38%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -2741,7 +2743,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-15": 541,
+      "2026-05-16": 924,
+      "2026-05-15": 1440,
       "2026-05-14": 1440,
       "2026-05-13": 1440,
       "2026-05-12": 1440,
@@ -3104,8 +3107,7 @@
       "2025-05-20": 1440,
       "2025-05-19": 1440,
       "2025-05-18": 1440,
-      "2025-05-17": 1440,
-      "2025-05-16": 1440
+      "2025-05-17": 1440
     }
   },
   {
@@ -3120,9 +3122,9 @@
     "uptimeMonth": "99.81%",
     "uptimeYear": "99.90%",
     "time": 884,
-    "timeDay": 865,
-    "timeWeek": 885,
-    "timeMonth": 872,
+    "timeDay": 916,
+    "timeWeek": 904,
+    "timeMonth": 876,
     "timeYear": 885,
     "dailyMinutesDown": {
       "2026-04-22": 82,
